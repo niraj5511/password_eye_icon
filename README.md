@@ -36,7 +36,7 @@ password_eye_icon/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/password_eye_icon.git
+   git clone https://github.com/niraj5511/password_eye_icon.git
    cd password_eye_icon
    ```
 2. Open `index.html` in your browser.
